@@ -33,3 +33,4 @@ __pycache__/
 !.github/
 !.github/workflows/
 !.github/workflows/**
+blobs/vndk/v30/com.android.vndk.v30.apex
